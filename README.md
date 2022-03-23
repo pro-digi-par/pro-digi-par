@@ -4,7 +4,7 @@ I'm the corporate repository of Pro Digi Par GmbH, an IT company in Hockenheim (
 
 - 👀 I’m interested in ...
 
-Pro Digi Par stands for Process Digitization Partners, so that's fundamentally what we care about. Right now, we are mostly working with four pieces of software: Odoo, Can-Do, 3Frames Labs' QInspect and Smart Commerce Solutions' SmartPlatform.
+Pro Digi Par stands for Process Digitization Partners, so that's fundamentally what we care about. Right now, we are mostly working with three pieces of software: Odoo, Can-Do and Smart Commerce Solutions' SmartPlatform.
 
 - 🌱 I’m currently learning ...
 
